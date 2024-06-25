@@ -2,7 +2,7 @@
 - 👀 I’m interested in **game development** and **software engineering**!
 - 🌱 I’m currently learning to develop games in **Godot**.
 - 💞️ I’m looking to **collaborate** on video game projects.
-- 📫 Shoot me a message on [Linkedin](https://www.linkedin.com/in/omar-b-maldonado/)!
+- 📫 Shoot me a message on [LinkedIn](https://www.linkedin.com/in/omar-b-maldonado/)!
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I also do digital art!
 
