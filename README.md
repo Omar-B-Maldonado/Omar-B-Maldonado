@@ -4,7 +4,7 @@
 - 💞️ I’m looking to **collaborate** on video game projects.
 - 📫 Shoot me a message on [LinkedIn](https://www.linkedin.com/in/omar-b-maldonado/)!
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I also do digital art!
+- ⚡ Fun fact: *I also do digital art*.
 
 <!---
 Omar-B-Maldonado/Omar-B-Maldonado is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
