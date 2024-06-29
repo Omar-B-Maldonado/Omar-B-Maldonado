@@ -1,4 +1,4 @@
-<div align="center"># 👋 Hi, my name is Omar Maldonado</div>
+# <p align="center"> 👋 Hi, my name is Omar</p>
 - 👀 I’m interested in **game development** and **software engineering**!
 - 🌱 I’m currently learning to develop games in **Godot**.
 - 💞️ I’m looking to **collaborate** on video game projects.
