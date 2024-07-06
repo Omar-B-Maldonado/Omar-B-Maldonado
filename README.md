@@ -1,7 +1,7 @@
 # <p align="center"> 👋 Hello, my name is Omar</p>
 - 👀 I’m interested in **game development** and **software engineering**!
-- 🌱 I’m currently learning to develop games in **Godot** and websites in **Django**.
-- 😄 I’m looking to **collaborate** on video game projects.
+- 🌱 I’m currently learning to develop *games* in **Godot** and *websites* in **Django**.
+- 😄 I’m looking to collaborate on video game projects.
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/omar-b-maldonado/)!
 - ⚡ Fun fact: *I also do digital art*.
 
