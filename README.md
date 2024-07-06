@@ -5,7 +5,7 @@
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/omar-b-maldonado/)!
 - ⚡ Fun fact: *I also do digital art*.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-b-maldonado&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-b-maldonado&theme=github-dark" alt="mystreak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-b-maldonado&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-b-maldonado&theme=chartreuse-dark" alt="mystreak"/>
 
 <!--- Themes:
 chartreuse-dark
