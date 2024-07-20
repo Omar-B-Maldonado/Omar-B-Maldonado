@@ -5,7 +5,7 @@ Lately, I've been seeking creative ways to indulge in both of my passions: *art 
 <summary>More About Me</summary>
   
 - 🎨 *I do digital art as a hobby* and I'm learning to make character models in **Blender**.
-- 👀 I'm looking to join a team as a back-end developer where I can indulge in my passions and grow my current skills.
+- 👀 I'm looking to join a team as a software developer where I can indulge in my passions and grow my current skills.
 </details>
 
  <a href="https://www.linkedin.com/in/omar-b-maldonado/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
