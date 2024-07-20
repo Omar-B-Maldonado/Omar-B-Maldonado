@@ -12,7 +12,7 @@ Lately, I've been seeking creative ways to indulge in both of my passions: *art 
  <a href="https://omar-b-maldonado.github.io/art/"><img src="https://img.shields.io/badge/Art_Portfolio-indianred?style=for-the-badge" /></a>
  <a href="https://omar-b-maldonado.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
 
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-b-maldonado&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-b-maldonado&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-b-maldonado&theme=tokyonight" alt="mystreak"/>
 
 <!--- Themes:
