@@ -1,5 +1,5 @@
 # <p align="center">🙋‍♂️ Hola, my name is Omar</p>
-Lately, I've been seeking creative ways to indulge in both of my passions: *art and tech*. So far, I've achieved this through video game development projects in Java and Godot. More recently, I've picked up Django for web development and have been developing an image-processing website that converts images into a color-by-number format (for creating murals, since I really want to paint my bedroom wall).
+Lately, I've been seeking creative ways to indulge in both of my passions: *art and tech*. So far, I've achieved this through video game development projects in Java and Godot. More recently, I've picked up Django and Flask for web development in Python. Currently, I've been developing an image-processing website that converts images into a color-by-number format (for creating murals, since I really want to paint my bedroom wall).
 
 <details open>
 <summary>More About Me</summary>
