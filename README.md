@@ -1,17 +1,9 @@
 <h1 align="center">🙋‍♂️ Hola, my name is Omar</h1>
 
-#### *click each title to shrink or expand its contents*
+#### *click each title to expand or shrink its contents*
 
 <details open>
-<summary><h2>🔍 About Me</h2></summary>
-
-  - 👀 I'm looking to advance my IT skills and career
-  - 🎨 I do digital art as a hobby
-  - 💪 I enjoy powerlifting!
-</details>
-
-<details open>
-<summary><h2>👨‍💻 Information Technology Projects:</h2></summary>
+<summary><h2>👨‍💻 Information Technology Projects</h2></summary>
   
 - <details open>
   <summary><b>osTicket (Help Desk Ticketing System)</b></summary>
@@ -30,6 +22,16 @@
   
 </details>
 
+<details closed>
+<summary><h2>🔍 More About Me</h2></summary>
+
+  - 👀 I'm looking to advance my IT skills and career
+  - 🎨 I do digital art as a hobby
+  - 💪 I enjoy powerlifting!
+  - 🗣️ I'm an intermediate spanish-speaker
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-b-maldonado&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
+</details>
+
 <details open>
 <summary><h2> Connect with me</h2></summary> 
   <a href="https://www.linkedin.com/in/omar-b-maldonado/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -40,9 +42,6 @@
 
 
 <!-- <a href="https://omar-b-maldonado.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>-->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-b-maldonado&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-b-maldonado&theme=tokyonight" alt="mystreak"/>
 
 <!--- Themes:
 chartreuse-dark
