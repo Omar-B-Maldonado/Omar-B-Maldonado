@@ -2,7 +2,7 @@
 
 ##### *click each title to expand or shrink its contents*
 
-<details open>
+<details closed>
 <summary><h2>👨‍💻 Information Technology Projects</h2></summary>
   
 - <details open>
@@ -23,7 +23,7 @@
 </details>
 
 <details closed>
-<summary><h3>🔍 More About Me</h3></summary>
+<summary><h3>🔍 Info About Me</h3></summary>
 
   - 👀 I'm looking to advance my IT skills and career
   - 🎨 I do digital art as a hobby
