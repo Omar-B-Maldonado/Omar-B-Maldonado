@@ -2,6 +2,7 @@
 
 ##### *click each title to expand or shrink its contents*
 
+<!-- PLACEHOLDER FOR NOW
 <details closed>
 <summary><h2>👨‍💻 Information Technology Projects</h2></summary>
   
@@ -21,8 +22,9 @@
   </details>
   
 </details>
+-->
 
-<details closed>
+<details open>
 <summary><h3>🔍 Info About Me</h3></summary>
 
   - 👀 I'm looking to advance my IT skills and career
