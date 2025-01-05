@@ -1,6 +1,6 @@
 <h1 align="center">🙋‍♂️ Hola, my name is Omar</h1>
 
-#### *click each title to expand or shrink its contents*
+##### *click each title to expand or shrink its contents*
 
 <details open>
 <summary><h2>👨‍💻 Information Technology Projects</h2></summary>
@@ -23,7 +23,7 @@
 </details>
 
 <details closed>
-<summary><h2>🔍 More About Me</h2></summary>
+<summary><h3>🔍 More About Me</h3></summary>
 
   - 👀 I'm looking to advance my IT skills and career
   - 🎨 I do digital art as a hobby
@@ -33,7 +33,7 @@
 </details>
 
 <details open>
-<summary><h2> Connect with me</h2></summary> 
+<summary><h3>🤝 Connect With Me</h3></summary> 
   <a href="https://www.linkedin.com/in/omar-b-maldonado/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </details>
 
