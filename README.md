@@ -1,16 +1,45 @@
-# <p align="center">🙋‍♂️ Hola, my name is Omar</p>
-Lately, I've been seeking creative ways to indulge in both of my passions: *art and tech*. So far, I've achieved this through video game development projects in Java and Godot. More recently, I've picked up Django and Flask for web development in Python. Currently, I've been developing an image-processing website that converts images into a color-by-number format (for creating murals, since I really want to paint my bedroom wall).
+<h1 align="center">🙋‍♂️ Hola, my name is Omar</h1>
+
+#### *click each title to shrink or expand its contents*
 
 <details open>
-<summary>More About Me</summary>
-  
-- 🎨 *I do digital art as a hobby* and I'm learning to make character models in **Blender**.
-- 👀 I'm looking to join a team as a software developer where I can indulge in my passions and grow my current skills.
+<summary><h2>🔍 About Me</h2></summary>
+
+  - 👀 I'm looking to advance my IT skills and career
+  - 🎨 I do digital art as a hobby
+  - 💪 I enjoy powerlifting!
 </details>
 
- <a href="https://www.linkedin.com/in/omar-b-maldonado/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href="https://omar-b-maldonado.github.io/art/"><img src="https://img.shields.io/badge/Art_Portfolio-indianred?style=for-the-badge" /></a>
- <a href="https://omar-b-maldonado.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
+<details open>
+<summary><h2>👨‍💻 Information Technology Projects:</h2></summary>
+  
+- <details open>
+  <summary><b>osTicket (Help Desk Ticketing System)</b></summary>
+    
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  </details>
+
+- <details open>
+  <summary><b>Microsoft Azure</b></summary>
+    
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  </details>
+  
+</details>
+
+<details open>
+<summary><h2> Connect with me</h2></summary> 
+  <a href="https://www.linkedin.com/in/omar-b-maldonado/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</details>
+
+
+
+
+
+<!-- <a href="https://omar-b-maldonado.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>-->
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omar-b-maldonado&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omar-b-maldonado&theme=tokyonight" alt="mystreak"/>
